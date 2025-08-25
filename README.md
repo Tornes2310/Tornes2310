@@ -14,4 +14,7 @@
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-prueba viejo Ray
+### :zap: Actividad reciente
+<! --START_SECTION:Activity-->
+
+<! --END_SECTION:Activity-->
